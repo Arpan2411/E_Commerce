@@ -1,0 +1,31 @@
+Here are some general Queries that are solved for a E-Commerce Store
+
+1.What are the details (price, stock, category, description) for a particular product with product ID ..?
+
+2.Which products have stock below the reorder threshold?
+
+3.Show all orders (Order History) (with status, dates, totals) placed by a particular customer (ID).
+
+4.What were the top n products by quantity sold in the last 30 days?
+
+5.How much gross revenue did we make between a time period (eg. in the month of May 2025) ?
+
+6.List customers who added items to cart but didn’t check out in the past week. // basically it is analyse and used for customised ad
+
+7.What’s the average order total for completed orders this quarter ?
+
+8.Compare revenue and units sold across product categories this month.
+
+9.What percentage of customers made more than one purchase in the last year ?
+
+10.Which orders are still unshipped more than 48 hours after payment?
+
+11.Payment failure rate // It is used to check our system
+
+12.Recent pending payments needing review by customer service
+
+13.Total revenue generated also check the total Profit
+
+14.Product Restocking Alert Function // for better maintain ( this feature is basically for seller)
+
+15.Customer Lifetime Value Calculation // this feature is given to customer a points based on this purchase rate
